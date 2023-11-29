@@ -5,12 +5,7 @@ import './App.css'
 import Card from './components/Card'
 
 function App() {
-  const [count, setCount] = useState(0)
-  let myObj={
-    username:"khushmit",
-    age: 21
-  }
-  let newArry = [1,2,3]
+  
 
   return (
     <>
